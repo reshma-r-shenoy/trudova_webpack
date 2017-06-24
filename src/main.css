@@ -1,0 +1,504 @@
+/*Body*/
+
+.clearfix {
+  overflow: auto;
+}
+
+.group:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+.group {
+  display: inline-block;
+}
+
+.-Landing-FINAL {
+  width: 100%;
+  /*height: 6751px;*/
+  background-color: #f5f5f5;
+}
+
+.margintop20px {
+  margin-top: 20px;
+}
+
+.margintop10px {
+  margin-top: 10px;
+}
+
+.margintop50px {
+  margin-top: 50px;
+}
+
+.margintop78px {
+  margin-top: 78px;
+}
+
+.marginbottom50px {
+  margin-bottom: 50px;
+}
+
+.paddingleft0px {
+  padding-left: 0px !important;
+}
+
+.Heading {
+  /*width: 146px;*/
+  height: 60px;
+  /*font-family: Roboto;*/
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 1.5;
+  text-align: left;
+  color: #173057;
+}
+
+.Heading-white {
+  /*width: 251px;*/
+  height: 60px;
+  /*font-family: Roboto;*/
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 1.5;
+  text-align: left;
+  color: #ffffff;
+}
+
+
+/*Footer*/
+
+.Rectangle-11-Copy {
+  width: 100%;
+  height: 319px;
+  background-color: #173057;
+}
+
+.Rectangle-12-Copy {
+  width: 100%;
+  height: 71px;
+  background-color: #2e486f;
+}
+
+.LEARN-MORE {
+  width: 86px;
+  /*height: 16px;*/
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  color: #ffffff;
+  padding-left: 0px !important;
+}
+
+.LEGAL {
+  width: 42px;
+  /*height: 16px;*/
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  color: #ffffff;
+}
+
+.FOLLOW-US {
+  width: 76px;
+  /*height: 16px;*/
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  color: #ffffff;
+}
+
+.FOOTER-CONTENTS {
+  margin-top: 43px;
+  /*margin-left: 249px;*/
+}
+
+.t_logo {
+  width: 62px;
+  height: 58px;
+  object-fit: contain;
+  margin-left: 110px;
+}
+
+.ic-linkedin {
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+}
+
+.ic-linkedin2 {
+  width: 21px;
+  height: 21px;
+  object-fit: contain;
+}
+
+.ic-facebook {
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+}
+
+.ic-facebook2 {
+  width: 10px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.ic-twitter {
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+}
+
+.ic-twitter2 {
+  width: 19px;
+  height: 17px;
+  object-fit: contain;
+}
+
+.ic-instagram {
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+}
+
+.ic-instagram2 {
+  width: 16px;
+  height: 17px;
+  object-fit: contain;
+}
+
+.FOOTER-CONTENTS-LIST {
+  margin-top: 40px;
+}
+
+.Verticals-Process-Pa {
+  width: 168px;
+  /*height: 104px;*/
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 300;
+  /*line-height: 1.86;*/
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.Privacy-policy-Terms {
+  width: 168px;
+  /*height: 78px;*/
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-weight: 300;
+  /*line-height: 1.86;*/
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.-Copyright-2017-Tr {
+  /*width: 400px;*/
+  height: 30px;
+  opacity: 0.7;
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  line-height: 5.14;
+  letter-spacing: 0.4px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.-Copyright-2017-Tr .text-style-1 {
+  font-family: PingFangSC;
+}
+
+
+/*Home Contact Us*/
+
+.Rectangle-7 {
+  /*width: 718px;*/
+  height: 623px;
+  padding-bottom: 30px;
+  background-color: #298cf7;
+}
+
+.CONTACT-US {
+  /*width: 86px;*/
+  height: 16px;
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  color: #173057;
+  margin-left: 29% !important;
+  margin-top: 65px;
+}
+
+.Trudova-Headquarters {
+  /*width: 432px;*/
+  /*height: 120px;*/
+  /*font-family: Roboto;*/
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 1.5;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 29% !important;
+}
+
+.ic_pin {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.ic_phone {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.ic_mail {
+  width: 24px;
+  height: 25px;
+  object-fit: contain;
+}
+
+.ic_working_hours {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.CONTACT-DETAILS {
+  margin-left: 21% !important;
+}
+
+.Lincoln-Square-10400 {
+  /*width: 192px;*/
+  /*height: 145px;*/
+  /*font-family: Roboto;*/
+  font-size: 17px;
+  /*line-height: 1.71;*/
+  text-align: left;
+  color: #ffffff;
+}
+
+.layer {
+  /*width: 105px;*/
+  /*height: 34px;*/
+  /*font-family: Roboto;*/
+  font-size: 17px;
+  line-height: 2;
+  text-align: left;
+  color: #ffffff;
+}
+
+.supporttrudovacom {
+  /*width: 169px;*/
+  /*height: 34px;*/
+  /*font-family: Roboto;*/
+  font-size: 17px;
+  /*line-height: 2;*/
+  text-align: left;
+  color: #ffffff;
+}
+
+.Mon---Sat-9am---5p {
+  width: 218px;
+  height: 34px;
+  /*font-family: Roboto;*/
+  font-size: 17px;
+  /*line-height: 2;*/
+  text-align: left;
+  color: #ffffff;
+}
+
+.Mon---Sat-9am---5p .text-style-1 {
+  font-family: HiraginoSans-W3;
+}
+
+
+/*Home Testimonials*/
+
+.Rectangle-8 {
+  /*width: 1440px;*/
+  /*height: 570px;*/
+  background-color: #ffffff;
+}
+
+.TESTIMONIALS {
+  /*width: 99px;*/
+  height: 16px;
+  /*font-family: Roboto;*/
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  color: #298cf7;
+}
+
+.quote {
+  width: 92.3px;
+  height: 82.3px;
+  object-fit: contain;
+  /*background-color: #e1eaf4;*/
+}
+
+.Aron-U {
+  /*width: 144px;*/
+  /*height: 32px;*/
+  /*font-family: Roboto;*/
+  font-size: 20px;
+  font-weight: 300;
+  /*line-height: 1.6;*/
+  text-align: left;
+  color: #173057;
+}
+
+.Insurance-Agent {
+  /*width: 173px;*/
+  /*height: 32px;*/
+  /*font-family: Roboto;*/
+  font-size: 16px;
+  font-weight: 300;
+  /*line-height: 2;*/
+  text-align: left;
+  color: #173057;
+}
+
+.stars {
+  /*width: 173px;*/
+  /*height: 32px;*/
+  font-family: PingFangSC;
+  font-size: 13px;
+  /*line-height: 2.46;*/
+  text-align: left;
+  color: #ffcc01;
+}
+
+.Testimonial-contents {
+  /*width: 270px;*/
+  height: 136px;
+  /*font-family: Roboto;*/
+  font-size: 17px;
+  line-height: 2;
+  text-align: left;
+  color: #778aa7;
+}
+
+
+/*Home Publisher Signup*/
+
+.Mask {
+  /*width: 1440px;*/
+  /*height: 468px;*/
+  background-color: #f5f5f5;
+}
+
+.ic_publisher {
+  width: 291px;
+  height: 294px;
+  object-fit: contain;
+  position: relative;
+}
+
+.Are-you-a-publisher {
+  position: absolute;
+  top: 10px;
+  padding-left: 26%;
+  padding-right: 19%;
+}
+
+.publisher-signup-content {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-left: 8%;
+  padding-right: 10%;
+}
+
+.One-of-the-primary-w {
+  /*width: 466px;*/
+  /*height: 306px;*/
+  /*font-family: Roboto;*/
+  font-size: 17px;
+  line-height: 2;
+  text-align: left;
+  color: #778aa7;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+
+/*Mission and Founder*/
+
+.Rectangle-10 {
+  /*width: 1137px;*/
+  height: 100%;
+  margin-left: 13% !important;
+  margin-right: 13% !important;
+}
+
+.Rectangle-10-1 {
+  /*width: 568.5px;*/
+  /*height: 606px;*/
+  background-color: #298cf7;
+}
+
+.Home-mission {
+  padding-top: 43px;
+  padding-bottom: 100px;
+  padding-left: 9% !important;
+  padding-right: 9% !important;
+}
+
+.Home-founder {
+  padding-top: 43px;
+  padding-bottom: 70px;
+  padding-left: 9% !important;
+  padding-right: 9% !important;
+  background-color: #ffffff;
+}
+
+.Our-Mission {
+  /*width: 377px;*/
+  /*height: 120px;*/
+  /*font-family: Roboto;*/
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 1.5;
+  text-align: left;
+  color: #ffffff;
+}
+
+.Our-mission-at-Trudo {
+  /*width: 385px;*/
+  /*height: 340px;*/
+  /*font-family: Roboto;*/
+  font-size: 17px;
+  line-height: 2;
+  text-align: left;
+  color: #ffffff;
+}
+
+.Brian-Fife-the-Pres {
+  /*width: 384px;*/
+  /*height: 374px;*/
+  /*font-family: Roboto;*/
+  font-size: 17px;
+  line-height: 2;
+  text-align: left;
+  color: #778aa7;
+}
+
+.brian_photo {
+  width: 104px;
+  height: 104px;
+  object-fit: contain;
+}
